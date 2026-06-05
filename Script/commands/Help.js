@@ -140,7 +140,7 @@ module.exports.run = function ({ api, event, args, getText }) {
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "Ariyan 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
 ┃ 👑 Owner: IP-ARIYAN 
 ╰━━━━━━━━━━━━━━━━╯`;
 
