@@ -57,8 +57,8 @@ ${botPrefix}Info
 ${botPrefix}Admin
 
 ★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন IP-ARIYAN কে নক করতে পারেন ★
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞: https://m.me/robiulislam12r
-➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/01887267477
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞: https://www.facebook.com/profile.php?id=61590366007318
+➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/+966572373693
 
 ❖⋆═══════════════════════⋆❖
           𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ IP-ARIYAN`;
